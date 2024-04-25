@@ -22,8 +22,6 @@ services:
     ports:
       - "5552:5552"
       - "15672:15672"
-    env_file:
-      - .env
     networks:
       - my-network
     healthcheck:
