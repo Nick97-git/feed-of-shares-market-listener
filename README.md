@@ -6,6 +6,7 @@
 - Spring Boot
 - Spring Data JPA
 - RabbitMQ
+- H2
 - JUnit5
 
 ## How to launch
